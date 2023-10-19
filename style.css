@@ -297,10 +297,11 @@
     color: #09011b;
     align-items: center;
     margin-top: 5%;
+    height: 30.5%;
   }
   
   .stream {
-    margin-left: 5%;
+    margin-right: 29%;
     color: white;
   }
   
@@ -316,7 +317,7 @@
   
   .schophoto {
     width: 20%;
-    height: 130px;
+    height: 163px;
     float: left;
     margin-top: -2%;
   }
@@ -325,6 +326,7 @@
     background-color:black;
     width: 70%;
     margin-left: 15%;
+  
    
   }
   
@@ -336,6 +338,8 @@
     color: #09011b;
     align-items: center;
     margin-top: -15%;
+    height: 10.5%;
+  
   }
   
   .stream2 {
